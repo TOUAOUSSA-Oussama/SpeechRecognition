@@ -10,4 +10,4 @@ Installer les dependences : pip install requirements.txt <br>
 Tapeer : pip install main.py 
 
 <h2> A retenir </h2>
-Il faut dire "hi sam" afin que le reconnaisseur du voix soit activer.
+Il faut dire "Hi Sam" afin que le reconnaisseur du voix soit activer.
