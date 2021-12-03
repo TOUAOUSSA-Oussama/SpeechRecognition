@@ -1,12 +1,3 @@
-# L'objectif de cette application est de convetir un discours en texte puis interagir avec l'utilisateur
-# Elle permet la possibilte d'embarquer un modele AI pour traiter les textes et avoir une reponse plus intelligente
-# La technologie utiliser est gtts qui est de base une modele speech recogniton developper par google
-
-## 0 - Pour commancer installer les libraries suivantes :
-# pip install pipwin
-# pipwin install pyaudio
-# pip install SpeechRecognition
-# pip install gtts playsound => pour parler avec l'application (gtts = google text to speech)
 
 ## 1 - Import the packages that we need :
 import speech_recognition as sr
